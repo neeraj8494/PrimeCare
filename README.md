@@ -17,7 +17,7 @@
 
 # Download & Setup Instructions
 
-- 1 - Clone project: git clone https://github.com/entity-cosmos/PrimeCare/
+- 1 - Clone project: git clone https://github.com/neeraj8494/PrimeCare.git
 - 2 - cd prime_care
 - 3 - Create virtual environment: virtualenv myenv
 - 4 - myenv\scripts\activate
